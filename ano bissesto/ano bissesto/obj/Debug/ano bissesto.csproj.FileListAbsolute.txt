@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\bin\Debug\ano bissesto.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\bin\Debug\ano bissesto.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\bin\Debug\ano bissesto.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\obj\Debug\ano bissesto.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\obj\Debug\ano bissesto.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\obj\Debug\ano bissesto.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\ano bissesto\ano bissesto\obj\Debug\ano bissesto.pdb

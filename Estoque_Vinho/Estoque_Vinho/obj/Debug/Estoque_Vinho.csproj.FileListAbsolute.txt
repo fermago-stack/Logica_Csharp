@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.pdb

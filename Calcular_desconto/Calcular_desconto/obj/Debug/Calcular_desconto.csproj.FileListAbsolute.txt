@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.pdb

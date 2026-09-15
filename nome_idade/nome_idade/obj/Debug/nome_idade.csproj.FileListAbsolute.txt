@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\bin\Debug\nome_idade.exe.config
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\bin\Debug\nome_idade.exe
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\bin\Debug\nome_idade.pdb
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\obj\Debug\nome_idade.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\obj\Debug\nome_idade.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\obj\Debug\nome_idade.exe
+C:\Users\fernando.magossi\Documents\c#\nome_idade\nome_idade\obj\Debug\nome_idade.pdb

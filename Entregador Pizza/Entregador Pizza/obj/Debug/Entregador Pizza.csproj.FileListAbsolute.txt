@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\obj\Debug\Entregador Pizza.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\obj\Debug\Entregador Pizza.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\bin\Debug\Entregador Pizza.exe.config
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\bin\Debug\Entregador Pizza.exe
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\bin\Debug\Entregador Pizza.pdb
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\obj\Debug\Entregador Pizza.exe
+C:\Users\fernando.magossi\Documents\c#\Entregador Pizza\Entregador Pizza\obj\Debug\Entregador Pizza.pdb

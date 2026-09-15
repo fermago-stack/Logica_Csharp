@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\bin\Debug\Aluno e Media.exe.config
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\bin\Debug\Aluno e Media.exe
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\bin\Debug\Aluno e Media.pdb
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\obj\Debug\Aluno e Media.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\obj\Debug\Aluno e Media.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\obj\Debug\Aluno e Media.exe
+C:\Users\fernando.magossi\Documents\c#\Aluno e Media\Aluno e Media\obj\Debug\Aluno e Media.pdb

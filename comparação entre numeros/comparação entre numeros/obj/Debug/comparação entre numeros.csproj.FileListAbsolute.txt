@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\bin\Debug\comparação entre numeros.exe.config
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\bin\Debug\comparação entre numeros.exe
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\bin\Debug\comparação entre numeros.pdb
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\obj\Debug\comparação entre numeros.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\obj\Debug\comparação entre numeros.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\obj\Debug\comparação entre numeros.exe
+C:\Users\fernando.magossi\Documents\c#\comparação entre numeros\comparação entre numeros\obj\Debug\comparação entre numeros.pdb

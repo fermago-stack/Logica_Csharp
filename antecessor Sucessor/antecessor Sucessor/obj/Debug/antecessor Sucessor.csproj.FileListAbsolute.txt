@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\obj\Debug\antecessor Sucessor.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\obj\Debug\antecessor Sucessor.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\bin\Debug\antecessor Sucessor.exe.config
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\bin\Debug\antecessor Sucessor.exe
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\bin\Debug\antecessor Sucessor.pdb
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\obj\Debug\antecessor Sucessor.exe
+C:\Users\fernando.magossi\Documents\c#\antecessor Sucessor\antecessor Sucessor\obj\Debug\antecessor Sucessor.pdb

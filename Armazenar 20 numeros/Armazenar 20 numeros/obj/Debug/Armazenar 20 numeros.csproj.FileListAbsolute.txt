@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\bin\Debug\Armazenar 20 numeros.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\bin\Debug\Armazenar 20 numeros.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\bin\Debug\Armazenar 20 numeros.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\obj\Debug\Armazenar 20 numeros.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\obj\Debug\Armazenar 20 numeros.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\obj\Debug\Armazenar 20 numeros.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Armazenar 20 numeros\Armazenar 20 numeros\obj\Debug\Armazenar 20 numeros.pdb

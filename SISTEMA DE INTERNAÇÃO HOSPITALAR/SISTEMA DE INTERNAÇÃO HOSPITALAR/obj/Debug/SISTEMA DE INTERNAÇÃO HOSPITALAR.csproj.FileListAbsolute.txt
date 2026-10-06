@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\bin\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\bin\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\bin\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\obj\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\obj\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\obj\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\SISTEMA DE INTERNAÇÃO HOSPITALAR\SISTEMA DE INTERNAÇÃO HOSPITALAR\obj\Debug\SISTEMA DE INTERNAÇÃO HOSPITALAR.pdb

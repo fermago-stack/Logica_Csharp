@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\obj\Debug\POKEDEX.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\obj\Debug\POKEDEX.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\bin\Debug\POKEDEX.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\bin\Debug\POKEDEX.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\bin\Debug\POKEDEX.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\obj\Debug\POKEDEX.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\POKEDEX\POKEDEX\obj\Debug\POKEDEX.pdb

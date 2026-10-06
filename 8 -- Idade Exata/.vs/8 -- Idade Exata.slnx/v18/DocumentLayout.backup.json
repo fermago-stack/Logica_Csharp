@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\8 -- Idade Exata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A13ECA8-ADEA-43D7-B853-7A790050ECA8}|8 -- Idade Exata\\8 -- Idade Exata.csproj|c:\\users\\fernando.magossi\\documents\\github\\logica_csharp\\8 -- idade exata\\8 -- idade exata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A13ECA8-ADEA-43D7-B853-7A790050ECA8}|8 -- Idade Exata\\8 -- Idade Exata.csproj|solutionrelative:8 -- idade exata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\8 -- Idade Exata\\8 -- Idade Exata\\Program.cs",
+              "RelativeDocumentMoniker": "8 -- Idade Exata\\Program.cs",
+              "ToolTip": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\8 -- Idade Exata\\8 -- Idade Exata\\Program.cs*",
+              "RelativeToolTip": "8 -- Idade Exata\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:10:57.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

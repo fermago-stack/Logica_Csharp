@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\bin\Debug\7 - valores trocados.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\bin\Debug\7 - valores trocados.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\bin\Debug\7 - valores trocados.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\obj\Debug\7 - valores trocados.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\obj\Debug\7 - valores trocados.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\obj\Debug\7 - valores trocados.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\7 - valores trocados\7 - valores trocados\obj\Debug\7 - valores trocados.pdb

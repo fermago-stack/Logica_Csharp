@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\bin\Debug\Cadastro de Produto1.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\bin\Debug\Cadastro de Produto1.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\bin\Debug\Cadastro de Produto1.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\obj\Debug\Cadastro de Produto1.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\obj\Debug\Cadastro de Produto1.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\obj\Debug\Cadastro de Produto1.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Cadastro de Produto1\Cadastro de Produto1\obj\Debug\Cadastro de Produto1.pdb

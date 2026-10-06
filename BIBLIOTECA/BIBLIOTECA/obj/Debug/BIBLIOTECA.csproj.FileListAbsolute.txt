@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb

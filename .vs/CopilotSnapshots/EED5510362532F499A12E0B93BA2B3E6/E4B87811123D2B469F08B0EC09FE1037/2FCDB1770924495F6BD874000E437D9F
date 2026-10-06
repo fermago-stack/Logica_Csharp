@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Schema;
+
+namespace Historico_de_compras
+{ // Desenvolva um programa que armazene o historico total de compras de 10 clientes e mostre o total de gasto de todos os cliente.
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double[,] compras = new double[10, 5];
+
+            for (int i = 0; i < 10; i++)
+            {
+                double total = 0;
+                Console.WriteLine($"\n Compras do Ciente {i + 1}:");
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write($" Valor da Compra {j + 1}: R$: ");
+                    string input = Console.ReadLine();
+                    while (string.IsNullOrWhiteSpace(input) || !double.TryParse(input.Trim(), System.Globalization.NumberStyles.Number, System.Globalization.CultureInfo.CurrentCulture, out double value))
+                    {
+                        Console.Write("Entrada inválida. Digite um valor numérico: ");
+                        input = Console.ReadLine();
+                    }
+                    compras[i, j] = value;
+                    total += compras[i, j];
+                }
+
+                Console.WriteLine($" Total gasto pelo cliente {i + 1}: R$ {total:0.00}");
+
+            }
+    }
+
+        Console.WriteLine($" Total gasto pelo cliente {i + 1}: R$ {total:0.00}");
+
+        }
+
+            
+
+
+
+            }
+}
+
+}
+
+
+        

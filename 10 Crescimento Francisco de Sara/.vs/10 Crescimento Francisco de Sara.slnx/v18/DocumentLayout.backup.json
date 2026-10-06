@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\10 Crescimento Francisco de Sara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD38973D-8B75-4775-A36C-C4EF6A22E05D}|10 Crescimento Francisco de Sara\\10 Crescimento Francisco de Sara.csproj|c:\\users\\fernando.magossi\\documents\\github\\logica_csharp\\10 crescimento francisco de sara\\10 crescimento francisco de sara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD38973D-8B75-4775-A36C-C4EF6A22E05D}|10 Crescimento Francisco de Sara\\10 Crescimento Francisco de Sara.csproj|solutionrelative:10 crescimento francisco de sara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\10 Crescimento Francisco de Sara\\10 Crescimento Francisco de Sara\\Program.cs",
+              "RelativeDocumentMoniker": "10 Crescimento Francisco de Sara\\Program.cs",
+              "ToolTip": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\10 Crescimento Francisco de Sara\\10 Crescimento Francisco de Sara\\Program.cs",
+              "RelativeToolTip": "10 Crescimento Francisco de Sara\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T12:50:00.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

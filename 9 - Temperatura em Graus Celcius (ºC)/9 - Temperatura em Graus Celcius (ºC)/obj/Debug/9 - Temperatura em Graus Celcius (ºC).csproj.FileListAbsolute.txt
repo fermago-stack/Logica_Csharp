@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\bin\Debug\9 - Temperatura em Graus Celcius (ºC).exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\bin\Debug\9 - Temperatura em Graus Celcius (ºC).exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\bin\Debug\9 - Temperatura em Graus Celcius (ºC).pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\obj\Debug\9 - Temperatura em Graus Celcius (ºC).csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\obj\Debug\9 - Temperatura em Graus Celcius (ºC).csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\obj\Debug\9 - Temperatura em Graus Celcius (ºC).exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\9 - Temperatura em Graus Celcius (ºC)\9 - Temperatura em Graus Celcius (ºC)\obj\Debug\9 - Temperatura em Graus Celcius (ºC).pdb

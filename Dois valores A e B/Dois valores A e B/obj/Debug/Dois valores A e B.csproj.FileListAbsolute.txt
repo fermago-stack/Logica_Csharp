@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\obj\Debug\Dois valores A e B.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\obj\Debug\Dois valores A e B.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\bin\Debug\Dois valores A e B.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\bin\Debug\Dois valores A e B.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\bin\Debug\Dois valores A e B.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\obj\Debug\Dois valores A e B.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Dois valores A e B\Dois valores A e B\obj\Debug\Dois valores A e B.pdb

@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\bin\Debug\10 Crescimento Francisco de Sara.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\bin\Debug\10 Crescimento Francisco de Sara.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\bin\Debug\10 Crescimento Francisco de Sara.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\obj\Debug\10 Crescimento Francisco de Sara.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\obj\Debug\10 Crescimento Francisco de Sara.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\obj\Debug\10 Crescimento Francisco de Sara.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\10 Crescimento Francisco de Sara\10 Crescimento Francisco de Sara\obj\Debug\10 Crescimento Francisco de Sara.pdb

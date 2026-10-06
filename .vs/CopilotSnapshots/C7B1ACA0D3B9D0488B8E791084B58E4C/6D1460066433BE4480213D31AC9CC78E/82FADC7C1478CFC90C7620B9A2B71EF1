@@ -1,0 +1,91 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FRUTAS
+{ //"  Implemente um sistema que armazene as quantidades de 5 tipos de frutas em 3 cestas e calcule o total de frutas de cada tipo.""
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Declaração de um array de frutas
+            string[] frutas = { "Maçã", "Banana", "Laranja", "Uva", "Pera" };
+            string[] cestas1 = new string[5];
+            string[] cestas2 = new string[5];
+            string[] cestas3 = new string[5];
+
+
+            int i=0, j = 0, k = 0;
+
+
+            if  (cestas1.Length != 5 || cestas2.Length != 5 || cestas3.Length != 5)
+            {
+                Console.WriteLine("Erro: Cada cesta deve conter exatamente 5 tipos de frutas.");
+                return;
+            }
+
+
+            for (i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[i]} na cesta 1:");
+                cestas1[i] = Console.ReadLine();
+
+            }
+
+            for (j = 0; j < 5; j++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[j]} na cesta 2:");
+                cestas2[j] = Console.ReadLine();
+            }
+
+            for (k = 0; k < 5; k++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[k]} na cesta 3:");
+                cestas3[k] = Console.ReadLine();
+            }
+
+
+
+        }    
+
+            int i=0, j = 0, k = 0;
+
+
+            if  (cestas1.Length != 5 || cestas2.Length != 5 || cestas3.Length != 5)
+            {
+                Console.WriteLine("Erro: Cada cesta deve conter exatamente 5 tipos de frutas.");
+                return;
+            }
+
+           
+            for (i = 0; i < 5; i++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[i]} na cesta 1:");
+                cestas1[i] = int.Parse(Console.ReadLine());
+                                            
+            }
+
+            for (j = 0; j < 5; j++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[j]} na cesta 2:");
+                cestas2[j] = int.Parse(Console.ReadLine());
+            }
+
+            for (k = 0; k < 5; k++)
+            {
+                Console.WriteLine($"Digite as frutas {frutas[k]} na cesta 3:");
+                cestas3[k] = int.Parse(Console.ReadLine());
+            }
+
+
+
+        }    
+
+
+
+
+}
+    }

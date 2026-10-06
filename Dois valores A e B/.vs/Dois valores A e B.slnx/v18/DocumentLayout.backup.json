@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\Dois valores A e B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB4F2B-7F8B-4ABF-8563-DC918F89327B}|Dois valores A e B\\Dois valores A e B.csproj|c:\\users\\fernando.magossi\\documents\\github\\logica_csharp\\dois valores a e b\\dois valores a e b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB4F2B-7F8B-4ABF-8563-DC918F89327B}|Dois valores A e B\\Dois valores A e B.csproj|solutionrelative:dois valores a e b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\Dois valores A e B\\Dois valores A e B\\Program.cs",
+              "RelativeDocumentMoniker": "Dois valores A e B\\Program.cs",
+              "ToolTip": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\Dois valores A e B\\Dois valores A e B\\Program.cs",
+              "RelativeToolTip": "Dois valores A e B\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:51:55.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

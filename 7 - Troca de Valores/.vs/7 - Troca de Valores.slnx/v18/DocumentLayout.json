@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\7 - Troca de Valores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842A4446-2AD8-431E-A66F-FAF697682A56}|7 - Troca de Valores\\7 - Troca de Valores.csproj|c:\\users\\fernando.magossi\\documents\\c# 21_09\\7 troca de valores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7 troca de valores.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.magossi\\Documents\\c# 21_09\\7 troca de valores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\c# 21_09\\7 troca de valores.cs",
+              "ToolTip": "C:\\Users\\fernando.magossi\\Documents\\c# 21_09\\7 troca de valores.cs",
+              "RelativeToolTip": "..\\..\\..\\c# 21_09\\7 troca de valores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:57:02.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

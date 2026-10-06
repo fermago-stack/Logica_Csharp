@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\bin\Debug\8 - Idade exata.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\bin\Debug\8 - Idade exata.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\bin\Debug\8 - Idade exata.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\obj\Debug\8 - Idade exata.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\obj\Debug\8 - Idade exata.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\obj\Debug\8 - Idade exata.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\8 - Idade exata\8 - Idade exata\obj\Debug\8 - Idade exata.pdb

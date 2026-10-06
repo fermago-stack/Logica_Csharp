@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\cadastor_de _bandas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E6D40B-C20F-45DF-B0CC-5CD91498BB1E}|cadastor_de _bandas\\cadastor_de _bandas.csproj|c:\\users\\fernando.magossi\\documents\\github\\logica_csharp\\cadastor_de _bandas\\cadastor_de _bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E6D40B-C20F-45DF-B0CC-5CD91498BB1E}|cadastor_de _bandas\\cadastor_de _bandas.csproj|solutionrelative:cadastor_de _bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\cadastor_de _bandas\\cadastor_de _bandas\\Program.cs",
+              "RelativeDocumentMoniker": "cadastor_de _bandas\\Program.cs",
+              "ToolTip": "C:\\Users\\fernando.magossi\\Documents\\GitHub\\Logica_Csharp\\cadastor_de _bandas\\cadastor_de _bandas\\Program.cs",
+              "RelativeToolTip": "cadastor_de _bandas\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T13:28:43.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

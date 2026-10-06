@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\bin\Debug\fabrica.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\bin\Debug\fabrica.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\bin\Debug\fabrica.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\obj\Debug\fabrica.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\obj\Debug\fabrica.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\obj\Debug\fabrica.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\fabrica\fabrica\obj\Debug\fabrica.pdb

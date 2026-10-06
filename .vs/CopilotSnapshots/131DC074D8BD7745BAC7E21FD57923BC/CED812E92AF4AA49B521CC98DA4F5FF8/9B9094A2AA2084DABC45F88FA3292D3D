@@ -1,0 +1,80 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SISTEMA_DE_INTERNAÇÃO_HOSPITALAR
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int opcao = 7;
+
+            while (opcao != 0)
+            {
+               
+            
+
+                    Console.WriteLine(" ════════════════════════════════════════════════════════════════════════════════ ");
+                    Console.WriteLine(" ════════════════════════════════════════════════════════════════════════════════ ");
+                    Console.WriteLine(" ══════════════════════════ SISTEMA DE INTERNAÇÃO HOSPITALAR ────────────── ");
+                    Console.WriteLine(" ══╗  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ╔═  ");
+                    Console.WriteLine(" ══╝  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚═  ╚─  ");
+
+                    Console.WriteLine(" 1 - Cadastrar Cliente(Ficha Rápida)");
+                    Console.WriteLine(" 2 - Cadastrar Podólogo");
+                    Console.WriteLine(" 3 - Cadastrar Procedimento / Serviço");
+                    Console.WriteLine(" 4 - Agendar Consulta");
+                    Console.WriteLine(" 5 - Listar Agendamentos");
+                    Console.WriteLine(" 6 - Exibir Todos os Cadastros");
+                    Console.WriteLine(" 0 - Sair");
+
+                    Console.WriteLine(" ════════════════════════════════════════════════════════════════════════════════ ");
+
+                    Console.Write("Digite a opção desejada:    ");
+                    opcao = int.Parse(Console.ReadLine());
+
+                switch (opcao)
+                {
+                    case 1:
+                        Console.WriteLine("Cadastrar Cliente ");
+                        break;
+
+                    case 2:
+                        Console.WriteLine("Cadastrar Podologo ");
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Cadastrar Procedimento / Serviço");
+                        break;
+
+                    case 4:
+                        Console.WriteLine(" Agendar Consuta ");
+                        break;
+
+                    case 5:
+                        Console.WriteLine("Listar Agendamentos ");
+                        break;
+
+                    case 6:
+                        Console.WriteLine("Exibir Todos os Cadastros ");
+                        break;
+
+                    case 0:
+                        Console.WriteLine("Saindo do sistema...");
+                        break;
+                }                                                                                                                                                                   ]
+
+            }
+
+
+         
+
+        }
+
+      
+    }
+}

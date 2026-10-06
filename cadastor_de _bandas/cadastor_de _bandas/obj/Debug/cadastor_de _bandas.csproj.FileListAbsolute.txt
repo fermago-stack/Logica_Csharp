@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\obj\Debug\cadastor_de _bandas.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\obj\Debug\cadastor_de _bandas.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\bin\Debug\cadastor_de _bandas.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\bin\Debug\cadastor_de _bandas.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\bin\Debug\cadastor_de _bandas.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\obj\Debug\cadastor_de _bandas.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\cadastor_de _bandas\cadastor_de _bandas\obj\Debug\cadastor_de _bandas.pdb

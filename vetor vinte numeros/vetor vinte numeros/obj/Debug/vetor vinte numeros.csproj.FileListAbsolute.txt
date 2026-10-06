@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\bin\Debug\vetor vinte numeros.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\bin\Debug\vetor vinte numeros.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\bin\Debug\vetor vinte numeros.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\obj\Debug\vetor vinte numeros.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\obj\Debug\vetor vinte numeros.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\obj\Debug\vetor vinte numeros.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\vetor vinte numeros\vetor vinte numeros\obj\Debug\vetor vinte numeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\obj\Debug\Salario MINIMO.csproj.AssemblyReference.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\obj\Debug\Salario MINIMO.csproj.CoreCompileInputs.cache
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\bin\Debug\Salario MINIMO.exe.config
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\bin\Debug\Salario MINIMO.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\bin\Debug\Salario MINIMO.pdb
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\obj\Debug\Salario MINIMO.exe
+C:\Users\fernando.magossi\Documents\GitHub\Logica_Csharp\Salario MINIMO\Salario MINIMO\obj\Debug\Salario MINIMO.pdb
